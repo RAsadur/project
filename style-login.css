@@ -1,0 +1,94 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald&display=swap');
+body{
+	margin: 0px;
+    background-image: url(photo.jpg);
+    background-size: cover;
+	height:100%;
+	width: 100%;
+
+}
+.heading{
+	width:400px;
+	height:50px;
+	background:gray;
+	margin-top: 0%;
+	margin-left: 535px;
+}
+
+.menulist{
+	
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 10px;
+  overflow: hidden;
+  background-color: #333;
+}
+
+li {
+  float:left;
+  margin-right:50px;
+  margin-left:50px;
+  font-size: 25px;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.table{
+	width:100%;
+	height:500px;
+	background:gray;
+	   margin-top:0%;
+   margin-left: 0px;
+	
+}
+
+.dummytext{
+	
+	color:white;
+	font-size:20px;
+}
+
+.loginbox{
+
+	width: 250px;
+	height: 320px;
+	background:gray;
+	top: 30%;
+	position: absolute;
+	margin-left: 40%;
+	
+
+
+	
+}
+.avatar{
+   
+    height: 100px;
+    width: 100px;
+   margin-top: -20%;
+   margin-left: 75px;
+	
+}
+
+.from{
+
+	padding: 0px 30px;
+}
+
+.loginbox input{
+	width: 100%;
+	margin-bottom: 20px;
+}
